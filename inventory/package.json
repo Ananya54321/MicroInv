@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "redis-om": "^0.4.7"
+  }
+}
